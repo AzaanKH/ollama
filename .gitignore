@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 .venv
-ollama-env
+.ollama-env
 # Distribution / packaging
 .Python
 build/
